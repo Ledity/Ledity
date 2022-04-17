@@ -1,0 +1,3 @@
+#+TITLE: ledity's homepage
+
+* Hi, I'm ledity.
