@@ -1,3 +1,2 @@
 #+TITLE: ledity's homepage
-
-* Hi, I'm ledity.
+Hi, I'm ledity.
