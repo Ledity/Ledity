@@ -1,2 +1,2 @@
-#+TITLE: ledity's homepage
-Hi, I'm ledity.
+#+TITLE: Hi
+(hello)
