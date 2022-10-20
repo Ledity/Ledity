@@ -1,2 +1,10 @@
-#+TITLE: Hi
-(hello)
+#+TITLE: Hi, I'm ledity
+** Langs
+I know a little of C and Nasm.
+Currently learning Rust and Java.
+** OS
+I use Arch, btw.
+Here's software I use
++WM of chice: AwesomeWM
++Terminal of choice: Alacritty
++Editor of choice: emacs
