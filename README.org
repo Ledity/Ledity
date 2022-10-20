@@ -6,10 +6,10 @@ Currently learning Rust and Java.
 ** OS
 I use Arch, btw.
 
-- Here's software I use
+Here's software I use
 
-WM of chice: AwesomeWM
+- WM of chice: AwesomeWM
 
-Terminal of choice: Alacritty
+- Terminal of choice: Alacritty
 
-Editor of choice: emacs
+- Editor of choice: emacs
