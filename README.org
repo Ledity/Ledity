@@ -1,7 +1,1 @@
-#+TITLE: Hi, I'm ledity
-** Langs
-I know a little of C, and Nasm.
 
-Currently learning Rust and Java.
-
-I use Arch, btw. :sunglasses:
